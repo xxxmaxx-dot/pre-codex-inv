@@ -26,6 +26,8 @@ codex_16="Algo21"
 codex_17="TheRexxy"
 codex_18="hellisabove"
 codex_19="ijustgottheworldsmostsmalliphone"
+codex_20="rafael"
+codex_21="christian"
 
 echo $codex_01
 echo $codex_02
@@ -46,3 +48,5 @@ echo $codex_16
 echo $codex_17
 echo $codex_18
 echo $codex_19
+echo $codex_20
+echo $codex_21
