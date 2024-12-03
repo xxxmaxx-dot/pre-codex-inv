@@ -31,6 +31,7 @@ codex_21="0x9c"
 codex_22="ijustgottheworldsmostsmalliphone"
 codex_23="rafael"
 codex_24="christian"
+codex_25="Mayano"
 
 echo $codex_01
 echo $codex_02
@@ -56,4 +57,4 @@ echo $codex_21
 echo $codex_22
 echo $codex_23
 echo $codex_24
-
+echo $codex_25
