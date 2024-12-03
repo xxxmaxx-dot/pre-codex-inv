@@ -25,16 +25,17 @@ codex_15="Samello"
 codex_16="Algo21"
 codex_17="TheRexxy"
 codex_18="hellisabove"
-codex_19="Windows98SE-dev"
-codex_20="abc"
-codex_21="BigBaldingMan"
-codex_22="Kines"
-codex_23="Xarag"
-codex_24="0x9c"
-codex_25="ijustgottheworldsmostsmalliphone"
-codex_26="rafael"
-codex_27="christian"
-codex_28="Mayano"
+codex_19="modyszna"
+codex_20="Windows98SE-dev"
+codex_21="abc"
+codex_22="BigBaldingMan"
+codex_23="Kines"
+codex_24="Xarag"
+codex_25="0x9c"
+codex_26="ijustgottheworldsmostsmalliphone"
+codex_27="rafael"
+codex_28="christian"
+codex_29="Mayano"
 
 echo $codex_01
 echo $codex_02
@@ -64,3 +65,4 @@ echo $codex_25
 echo $codex_26
 echo $codex_27
 echo $codex_28
+echo $codex_29
