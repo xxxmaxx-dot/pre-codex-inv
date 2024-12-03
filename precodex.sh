@@ -39,6 +39,7 @@ codex_29="christian"
 codex_30="Mayano"
 codex_31="Elfcobbler45"
 codex_32="toastbread"
+codex_33="poliecho"
 
 echo $codex_01
 echo $codex_02
@@ -72,3 +73,4 @@ echo $codex_29
 echo $codex_30
 echo $codex_31
 echo $codex_32
+echo $codex_33
