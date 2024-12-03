@@ -37,6 +37,7 @@ codex_27="ijustgottheworldsmostsmalliphone"
 codex_28="rafael"
 codex_29="christian"
 codex_30="Mayano"
+codex_31="Elfcobbler45"
 
 echo $codex_01
 echo $codex_02
@@ -68,3 +69,4 @@ echo $codex_27
 echo $codex_28
 echo $codex_29
 echo $codex_30
+echo $codex_31
