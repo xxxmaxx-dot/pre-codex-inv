@@ -25,14 +25,15 @@ codex_15="Samello"
 codex_16="Algo21"
 codex_17="TheRexxy"
 codex_18="hellisabove"
-codex_19="BigBaldingMan"
-codex_20="Kines"
-codex_21="Xarag"
-codex_22="0x9c"
-codex_23="ijustgottheworldsmostsmalliphone"
-codex_24="rafael"
-codex_25="christian"
-codex_26="Mayano"
+codex_19="abc"
+codex_20="BigBaldingMan"
+codex_21="Kines"
+codex_22="Xarag"
+codex_23="0x9c"
+codex_24="ijustgottheworldsmostsmalliphone"
+codex_25="rafael"
+codex_26="christian"
+codex_27="Mayano"
 
 echo $codex_01
 echo $codex_02
@@ -60,3 +61,5 @@ echo $codex_23
 echo $codex_24
 echo $codex_25
 echo $codex_26
+echo $codex_27
+
