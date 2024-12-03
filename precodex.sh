@@ -26,6 +26,9 @@ codex_16="Algo21"
 codex_17="TheRexxy"
 codex_18="hellisabove"
 codex_19="0x9c"
+codex_20="ijustgottheworldsmostsmalliphone"
+codex_21="rafael"
+codex_22="christian"
 
 echo $codex_01
 echo $codex_02
@@ -46,3 +49,6 @@ echo $codex_16
 echo $codex_17
 echo $codex_18
 echo $codex_19
+echo $codex_20
+echo $codex_21
+echo $codex_22
