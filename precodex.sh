@@ -43,7 +43,7 @@ codex_33="poliecho"
 codex_34="lunarbacon"
 codex_35="brine"
 codex_36="Him_Jalpert"
-
+codex_37="S0b3l1x"
 echo $codex_01
 echo $codex_02
 echo $codex_03
@@ -80,3 +80,5 @@ echo $codex_33
 echo $codex_34
 echo $codex_35
 echo $codex_36
+echo $codex_37
+
