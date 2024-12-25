@@ -45,8 +45,8 @@ codex_35="brine"
 codex_36="Him_Jalpert"
 codex_37="S0b3l1x"
 codex_38="SeemsLegit24"
-codex_39="deja"
-codex_40="RobbeDM"
+codex_39="karorogunso"
+codex_40="deja"
 
 echo $codex_01
 echo $codex_02
