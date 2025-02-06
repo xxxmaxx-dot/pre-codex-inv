@@ -45,7 +45,10 @@ codex_35="brine"
 codex_36="Him_Jalpert"
 codex_37="S0b3l1x"
 codex_38="SeemsLegit24"
-codex_39="kim-kostya"
+codex_39="karorogunso"
+codex_40="deja"
+codex_41="RobbeDM"
+codex_42="kim-kostya"
 
 echo $codex_01
 echo $codex_02
@@ -86,3 +89,7 @@ echo $codex_36
 echo $codex_37
 echo $codex_38
 echo $codex_39
+echo $codex_39
+echo $codex_40
+echo $codex_41
+echo $codex_42
