@@ -51,8 +51,9 @@ codex_41="RobbeDM"
 codex_42="kim-kostya"
 codex_43="Sylph"
 codex_44="D4rks1de1"
-codex_45="TimeTravellingToaster"
-codex_46="jahnIbon"
+codex_45="Mist131"
+codex_46="TimeTravellingToaster"
+codex_47="jahnIbon"
 
 
 echo $codex_01
@@ -101,3 +102,4 @@ echo $codex_43
 echo $codex_44
 echo $codex_45
 echo $codex_46
+echo $codex_47
